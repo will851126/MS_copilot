@@ -16,20 +16,4 @@ to their interests
 
 1. Dev Tool : Copilot Studio& Power Automation
 
-![alt text](image.png)
 
-
-# Project Result
-
-## Step1 : Conversation Start  
-
-![alt text](image-1.png)
-
-
-## Step 2 : Ask for exhibit information
-
-![alt text](image-2.png)
-
-## Step 3 : Conversation  Stop
-
-![alt text](image-3.png)
