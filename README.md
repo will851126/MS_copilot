@@ -10,4 +10,26 @@ Instead of passively receiving  information
 Visitors can take an active role by asking spontaneous questions tailored 
 to their interests
 
-**Becomes an individualized, interactive learning experience **
+**Becomes an individualized, interactive learning experience**
+
+# Architecture or Design Presentation
+
+1. Dev Tool : Copilot Studio& Power Automation
+
+![alt text](image.png)
+
+
+# Project Result
+
+## Step1 : Conversation Start  
+
+![alt text](image-1.png)
+
+
+## Step 2 : Ask for exhibit information
+
+![alt text](image-2.png)
+
+## Step 3 : Conversation  Stop
+
+![alt text](image-3.png)
